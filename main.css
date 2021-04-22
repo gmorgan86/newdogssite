@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Ropa+Sans&display=swap');
+
+* {
+    background-color: #659DBD;
+    box-sizing: border-box;
+       
+    }
+
+a {
+    color: white; 
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    padding: 10px;
+    background-color: rgb(4, 90, 160);
+        
+      }
+      
+
+h1 {
+    font-size: 80px;
+    color: white;
+    font-family: 'Shadows Into Light', cursive;
+    display: flex;
+    justify-content: center;
+    
+    }
+
+
+
+p, li, h2, h3
+    {
+    padding: 20px 20px 20px 20px;
+    font-family: 'Ropa Sans', sans-serif;
+    color: whitesmoke;
+    
+    }
+
+.picRight { 
+    float: right;
+    margin-left: 20px;
+    padding: 20px;
+   
+
+            }
+
+.picLeft { 
+    float: left;
+    margin-right: 20px;
+    padding: 10px 20px 40px 20px;
+    
+            }
+
+.picCenter { 
+    display: block;
+    width: 40%; 
+	margin: 0 auto; 
+                           
+             }    
+             
+.container {
+    display: flex;
+    justify-content: center;       
+    
+            }
+
+.box {
+    color: white;
+    font-size: 30px;
+    font-family: 'Ropa Sans', sans-serif;
+    text-align: center;
+    padding: 5px;
+    width: 550px;        
+    }
+
+.links a {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+    border: 10px;
+    background-color: rgb(4, 90, 160);
+    font-family: 'Ropa Sans', sans-serif;
+
+         }
+
+    
+.dogVid {
+
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+        } 
