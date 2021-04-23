@@ -43,7 +43,7 @@ p, li, h2, h3
     float: right;
     margin-left: 20px;
     padding: 20px;
-   
+    width: 20%;
 
             }
 
@@ -51,12 +51,12 @@ p, li, h2, h3
     float: left;
     margin-right: 20px;
     padding: 10px 20px 40px 20px;
-    
+    width: 20%;
             }
 
 .picCenter { 
     display: block;
-    width: 40%; 
+    width: 20%; 
 	margin: 0 auto; 
                            
              }    
